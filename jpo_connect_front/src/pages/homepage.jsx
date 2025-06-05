@@ -5,7 +5,7 @@ export default function Homepage() {
   return (
     <>
       <Button className="start-button">clique ici</Button>
-      <h1>Hello</h1>
+      <h1>Bonjour</h1>
     </>
   );
 }
