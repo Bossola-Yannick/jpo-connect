@@ -18,8 +18,6 @@ function App() {
       <Header />
       <section className="main">
         <div style={{ padding: "2rem" }}>
-          <h1>Mon Frontend React</h1>
-
           <Routes>
             <Route path="/" element={<Homepage />} />
             <Route path="/jpo" element={<JPO />} />
